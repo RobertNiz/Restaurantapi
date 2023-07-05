@@ -1,2 +1,4 @@
 .vsidx
 .suo
+*.vsidx
+.vs/RestaurantAPI/v17/.suo
